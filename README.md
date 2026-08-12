@@ -1,13 +1,56 @@
 # Landing Page - Panorama do Mercado Tech
-## Acadêmico
-Guilherme de Melo Elias
-## Objetivo
-As vagas locais apresentam uma grande busca por profissionais que usam Java ou SQL, provavelmente devido as industrias locais que temos.
-E as vagas nacionais tem uma maior busca por setors mais variados de tecnologia.
+
+## Descrição
+
+Este projeto é uma landing page acadêmica desenvolvida para apresentar um panorama inicial do mercado de tecnologia, com base na análise de vagas locais e nacionais.
+
+A página organiza informações sobre cargos, tecnologias solicitadas, competências técnicas, competências comportamentais e tendências observadas nas oportunidades de trabalho da área de tecnologia.
+
+Este projeto faz parte da disciplina **Fábrica de Software** e será utilizado como base para estudos posteriores envolvendo **Java, Spring Boot, APIs REST, banco de dados e integração front-end/back-end**.
+
+---
+
+## Objetivo do projeto
+
+Desenvolver uma página web responsiva, organizada e documentada, aplicando conceitos iniciais de desenvolvimento front-end, versionamento de código e boas práticas de estruturação de projetos.
+
+Além da construção visual da página, o projeto tem como objetivo preparar os acadêmicos para compreender como uma interface front-end pode, futuramente, consumir dados fornecidos por uma API back-end.
+
+---
+
 ## Tecnologias utilizadas
-- HTML
-- CSS
-- Bootstrap, se utilizado
-## Principais percepções
-As exigencias do mercado tem se alterado bastante com base no seu nível profissional e setor da área que deseja trabalhar, 
-e os saltos de exigencias tem subido bastante nas novas vagas.
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Git
+- GitHub
+- GitHub Pages
+
+---
+
+## Estrutura do projeto
+
+```text
+landing-page-mercado-tech/
+├── index.html
+├── README.md
+├── assets/
+│   ├── images/
+│   │   └── logo.png
+│   └── icons/
+│       └── favicon_io/
+│           ├── apple-touch-icon.png
+│           ├── favicon-16x16.png
+│           ├── favicon-32x32.png
+│           ├── android-chrome-192x192.png
+│           ├── android-chrome-512x512.png
+│           └── site.webmanifest
+├── css/
+│   └── style.css
+└── docs/
+    ├── 01-visao-geral.md
+    ├── 02-requisitos.md
+    ├── 03-decisoes-de-layout.md
+    └── 04-registro-de-testes.md
+```
